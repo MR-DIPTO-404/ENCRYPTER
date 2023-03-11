@@ -11,4 +11,4 @@ $ pip install requests
 $ rm -rf ENCRYPTER
 $ git clone https://github.com/MR-DIPTO-404/ENCRYPTER
 $ cd ENCRYPTER
-$ python Encrypter.py
+$ python ENCRYPTER.py
